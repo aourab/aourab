@@ -1,5 +1,5 @@
 -  Hi, I’m @Ourab Azad
-- I am a student of 8 standard studying at REBMSC(http://rebmsc.edu.bd/)
+- I am a student of 9th standard studying at REBMSC(http://rebmsc.edu.bd/)
 -  I’m interested in ... cyber sicurity
 - 🌱 I’m currently learning ...Kali Linux
 
