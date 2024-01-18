@@ -1,7 +1,7 @@
 -  Hi, I’m @Ourab Azad
-- I am a student of 9th standard studying at REBMSC(http://rebmsc.edu.bd/)
--  I’m interested in ... cyber sicurity
-- 🌱 I’m currently learning ...Kali Linux
+- I am a student of 10th standard studying at REBGMSC
+-  I’m interested in ... AI
+- 🌱 I’m currently learning ...Neural Networking
 
 
 <!---
